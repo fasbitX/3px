@@ -32,9 +32,12 @@
     "jquery": "^3.2",
     "laravel-mix": "^2.0",
     "lodash": "*",
-    "vue": "*"
+    "vue": "*",
+    "lodash": ">=4.17.11"
   },
   "dependencies": {
-    "jquery-easy-loading": "^1.3.0"
+    "jquery-easy-loading": "^1.3.0",
+    "lodash": ">=4.17.11"
   }
 }
+
